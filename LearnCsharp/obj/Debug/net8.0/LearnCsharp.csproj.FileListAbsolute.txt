@@ -1,0 +1,14 @@
+C:\Users\MD ALAM HOSSAIN\source\repos\LearnCsharp\LearnCsharp\bin\Debug\net8.0\LearnCsharp.exe
+C:\Users\MD ALAM HOSSAIN\source\repos\LearnCsharp\LearnCsharp\bin\Debug\net8.0\LearnCsharp.deps.json
+C:\Users\MD ALAM HOSSAIN\source\repos\LearnCsharp\LearnCsharp\bin\Debug\net8.0\LearnCsharp.runtimeconfig.json
+C:\Users\MD ALAM HOSSAIN\source\repos\LearnCsharp\LearnCsharp\bin\Debug\net8.0\LearnCsharp.dll
+C:\Users\MD ALAM HOSSAIN\source\repos\LearnCsharp\LearnCsharp\bin\Debug\net8.0\LearnCsharp.pdb
+C:\Users\MD ALAM HOSSAIN\source\repos\LearnCsharp\LearnCsharp\obj\Debug\net8.0\LearnCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MD ALAM HOSSAIN\source\repos\LearnCsharp\LearnCsharp\obj\Debug\net8.0\LearnCsharp.AssemblyInfoInputs.cache
+C:\Users\MD ALAM HOSSAIN\source\repos\LearnCsharp\LearnCsharp\obj\Debug\net8.0\LearnCsharp.AssemblyInfo.cs
+C:\Users\MD ALAM HOSSAIN\source\repos\LearnCsharp\LearnCsharp\obj\Debug\net8.0\LearnCsharp.csproj.CoreCompileInputs.cache
+C:\Users\MD ALAM HOSSAIN\source\repos\LearnCsharp\LearnCsharp\obj\Debug\net8.0\LearnCsharp.dll
+C:\Users\MD ALAM HOSSAIN\source\repos\LearnCsharp\LearnCsharp\obj\Debug\net8.0\refint\LearnCsharp.dll
+C:\Users\MD ALAM HOSSAIN\source\repos\LearnCsharp\LearnCsharp\obj\Debug\net8.0\LearnCsharp.pdb
+C:\Users\MD ALAM HOSSAIN\source\repos\LearnCsharp\LearnCsharp\obj\Debug\net8.0\LearnCsharp.genruntimeconfig.cache
+C:\Users\MD ALAM HOSSAIN\source\repos\LearnCsharp\LearnCsharp\obj\Debug\net8.0\ref\LearnCsharp.dll
